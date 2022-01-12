@@ -4,8 +4,13 @@
 - 💞️ I’m looking to collaborate on exciting AI and Analytics projects...
 - 📫 How to reach me linkedin https://www.linkedin.com/in/roselina-mkhabela-b4227a148/   Roselina Mkhabela codepen  hackerrank https://www.hackerrank.com/mkhabela_rose twitter instagram ...my datacamp account is https://www.datacamp.com/profile/mkhabelarose  my microsoft learn account is https://docs.microsoft.com/en-us/users/rosemkhabela-7475/ certificates https://www.credly.com/users/roselina-mkhabela/badges
 -
-
+** this **
+#jon
 <!---
 RoseMK/RoseMK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+** this is bold **
+
+
 --->
